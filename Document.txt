@@ -1,0 +1,14 @@
+O que falta para concluir:
+Conexão real com o banco de dados (opcional, pode simular com um array para portfólio).
+
+Criar e testar as demais rotas (auth, users, schedules), se forem relevantes.
+
+Finalizar o consumo da API no frontend com formulários e exibição de dados.
+
+Estilizar as páginas com um design simples, mas apresentável.
+
+Criar o README.md completo com instruções de uso e imagem ilustrativa.
+
+Publicar no GitHub com um bom nome, descrição e tópicos no repositório.
+
+(Opcional) Deploy no Vercel (frontend) e Render ou Railway (backend) para demonstração online.
